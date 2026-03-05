@@ -25,37 +25,11 @@ The project also includes **JWT Authentication**, **Swagger API documentation**,
 * Uvicorn
 * HTML / JavaScript (Frontend)
 
-## 📁 Project Structure
-
-employee-management-api
-│
-├── backend
-│   ├── app
-│   │   ├── routes
-│   │   ├── models.py
-│   │   ├── schemas.py
-│   │   ├── database.py
-│   │   └── main.py
-│   │
-│   ├── employees.db
-│   ├── requirements.txt
-│   └── tests
-│
-├── frontend
-│   ├── dashboard.html
-│   ├── index.html
-│   ├── app.js
-│   └── style.css
-│
-└── README.md
-```
-
 # ⚙️ How to Run This Project
 
 Follow these steps to run the project on your system.
 
 ## 1️⃣ Clone the Repository
-
 
 git clone https://github.com/TamannaDhanda28/employee-management-api.git
 
